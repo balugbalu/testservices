@@ -6,6 +6,8 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "test",
+    "un":"test",
+    "pwd":"test1"    
   }
 }
