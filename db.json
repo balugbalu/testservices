@@ -5,9 +5,19 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "test",
-    "un":"test",
-    "pwd":"test1"    
+  "admin": {
+    "name": "Bala Krishna Ghanta",
+    "un":"admin",
+    "pwd":"admin"    
+  },  
+  "sahiti": {
+    "name": "Sahiti Ghanta",
+    "un":"sahiti",
+    "pwd":"asahiti"    
+  },  
+  "charita": {
+    "name": "Bala Krishna Ghanta",
+    "un":"charita",
+    "pwd":"acharita"    
   }
 }
